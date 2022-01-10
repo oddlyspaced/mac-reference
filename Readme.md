@@ -22,4 +22,4 @@ Amazing article by David J Harding: [Here](https://medium.com/@davidjasonharding
 Additionally :
 yarn : ```brew install yarn```
 
-!Important! Use ```cocaopods``` from homebrew and not gen : ```brew install cocoapods```
+!Important! Use ```cocaopods``` from homebrew and not gem : ```brew install cocoapods```
